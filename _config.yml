@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Tech Bookmarks
 locale: en_US
-description: Describe your website here.
+description: Self-curated tech bookmarks
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://192.168.99.100:4000
 
 # Jekyll configuration
 
@@ -15,9 +15,9 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
+# gems:
+#   - jekyll-sitemap
+#   - jekyll-gist
 
 kramdown:
   auto_ids: true
