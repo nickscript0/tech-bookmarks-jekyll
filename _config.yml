@@ -3,7 +3,7 @@
 title: Tech Bookmarks
 locale: en_US
 description: Self-curated tech bookmarks
-logo: site-logo.png
+#logo: site-logo.png
 search: true
 url: http://192.168.99.100:4000
 
